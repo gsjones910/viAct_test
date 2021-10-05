@@ -56,12 +56,8 @@ class ArticleList extends Component {
 				<div className="w3-content" style={{ maxWidth: 1600 + 'px' }}>
 					<header className="w3-container w3-center w3-padding-48 w3-white">
 						<h1 className="w3-xxxlarge">
-							<b>News Buzz</b>
+							<b>News Api(VIACT)</b>
 						</h1>
-						<h6>
-							Latest News from around the{' '}
-							<span className="w3-tag">world</span>
-						</h6>
 					</header>
 				</div>
 				<div className="w3-row w3-padding w3-border">
